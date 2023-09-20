@@ -1,0 +1,187 @@
+.div,
+.image-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.image-1-icon {
+  width: 120rem;
+  height: 67.58rem;
+  object-fit: cover;
+}
+.div {
+  width: 15.06rem;
+  height: 15.06rem;
+}
+.a-better-choice,
+.gotilo {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.gotilo {
+  height: 70.08%;
+  width: 100%;
+  top: 0;
+  letter-spacing: 0.1em;
+}
+.a-better-choice {
+  height: 11.18%;
+  width: 54.46%;
+  top: 88.82%;
+  font-size: 0.78rem;
+  font-family: var(--font-inter);
+}
+.text {
+  position: absolute;
+  height: 9.79%;
+  width: 14.9%;
+  top: 2.4%;
+  right: 82.6%;
+  bottom: 87.81%;
+  left: 2.5%;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: var(--font-size-81xl);
+  color: var(--color-white);
+  font-family: var(--font-medula-one);
+}
+.frame-child {
+  position: absolute;
+  top: 16.88rem;
+  left: calc(50% - 235px);
+  border-radius: 20px;
+  background-color: rgba(217, 217, 217, 0.1);
+  box-shadow: 38.66666793823242px -38.66666793823242px 38.67px rgba(
+        165,
+        165,
+        165,
+        0.1
+      ) inset,
+    -38.66666793823242px 38.66666793823242px 38.67px rgba(255, 255, 255, 0.1) inset;
+  backdrop-filter: blur(77.33px);
+  width: 29.38rem;
+  height: 33.81rem;
+}
+.login {
+  position: absolute;
+  top: 18.31rem;
+  left: calc(50% - 44px);
+  font-size: var(--font-size-13xl);
+  line-height: 1.5rem;
+  display: flex;
+  color: #2d210a;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 5.44rem;
+  height: 1.81rem;
+}
+.email-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.email1 {
+  position: absolute;
+  top: 23.91%;
+  left: 3.65%;
+}
+.email,
+.email2 {
+  position: absolute;
+  left: 49.19rem;
+  width: 20.81rem;
+  height: 2.88rem;
+  color: var(--color-gray-100);
+  font-family: var(--font-inter);
+}
+.email {
+  top: 27.56rem;
+}
+.email2 {
+  top: calc(50% - 22.66px);
+}
+.frame-inner,
+.frame-item {
+  position: absolute;
+  top: 30.41rem;
+  left: 49.16rem;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 20.88rem;
+  height: 0.06rem;
+}
+.frame-inner {
+  top: 34.91rem;
+}
+.email-icon,
+.vector-icon {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon {
+  height: 1.66%;
+  width: 0.83%;
+  top: 48.92%;
+  right: 41.88%;
+  bottom: 49.41%;
+  left: 57.29%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.email-icon {
+  top: 28.56rem;
+  left: 68.75rem;
+  width: 1rem;
+  height: 1.13rem;
+}
+.forget-password {
+  position: absolute;
+  top: 35.25rem;
+  left: 62.31rem;
+  font-size: 1.13rem;
+  font-family: var(--font-ntr);
+}
+.rectangle-div {
+  position: absolute;
+  top: 40.31rem;
+  left: 49.25rem;
+  border-radius: 30px;
+  background-color: #827059;
+  width: 20.81rem;
+  height: 3.44rem;
+}
+.login1 {
+  position: absolute;
+  top: 41.31rem;
+  left: 57.94rem;
+  line-height: 1.5rem;
+  text-align: center;
+}
+.span {
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+}
+.dont-have-an-container {
+  position: absolute;
+  top: 44.06rem;
+  left: 51.56rem;
+  line-height: 1.5rem;
+  text-align: center;
+  font-size: 1rem;
+}
+.image-1-parent {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 67.58rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-open-sans);
+}
